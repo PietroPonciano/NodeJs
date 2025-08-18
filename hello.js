@@ -11,8 +11,3 @@ if (hora < 12) {
 }
 
 console.log(`Hello world! I'm ${nome}, agora são ${hora}h da ${dia}.`);
-
-
-
-
-
